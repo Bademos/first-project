@@ -1,6 +1,6 @@
 class Fuck {
     
-  static int hui = 15;
+  static int hui = 105;
 
 
 }
